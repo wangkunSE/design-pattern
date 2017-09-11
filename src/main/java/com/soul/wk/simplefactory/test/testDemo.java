@@ -15,6 +15,8 @@ public class testDemo {
         int numB = in.nextInt();
         String symbol = in.next();
 
+
+
         Operation operation = OperationFactory.getOperation(symbol);
         System.out.println(operation.getResult(numA,numB));
     }
