@@ -1,4 +1,4 @@
-package com.soul.wk.adapter.player;
+package com.soul.wk.adaptor.player;
 
 public class Forwards extends Player {
 

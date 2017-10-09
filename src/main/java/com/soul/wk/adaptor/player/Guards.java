@@ -1,4 +1,4 @@
-package com.soul.wk.adapter.player;
+package com.soul.wk.adaptor.player;
 
 public class Guards extends Player {
     public Guards(String name) {

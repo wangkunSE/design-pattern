@@ -1,9 +1,9 @@
-package com.soul.wk.adapter.client;
+package com.soul.wk.adaptor.client;
 
-import com.soul.wk.adapter.player.Forwards;
-import com.soul.wk.adapter.player.Guards;
-import com.soul.wk.adapter.player.Player;
-import com.soul.wk.adapter.player.Translator;
+import com.soul.wk.adaptor.player.Forwards;
+import com.soul.wk.adaptor.player.Guards;
+import com.soul.wk.adaptor.player.Player;
+import com.soul.wk.adaptor.player.Translator;
 
 public class adapterDemo {
 
