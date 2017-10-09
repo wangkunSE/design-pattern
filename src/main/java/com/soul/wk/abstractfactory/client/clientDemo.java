@@ -23,7 +23,7 @@ public class clientDemo {
         department.setId(0);
 
 
-        IFactory factory = new MysqlFactory();
+        IFactory factory = new SqlServerFactory();
         UserDao userDao = factory.createUserDao();
 
         userDao.insert(user);
