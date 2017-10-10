@@ -23,6 +23,8 @@ public class ComponentDemo {
         bjCompany.add(hdCompany);
 
         bjCompany.display(1);
+
+        System.out.println();
         bjCompany.duty();
 
     }
