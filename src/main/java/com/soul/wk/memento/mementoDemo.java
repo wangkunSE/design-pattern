@@ -7,7 +7,15 @@ public class mementoDemo {
 
     public static void main(String[] args) {
 
-        mementoTest();
+//        mementoTest();
+        objectTostringTest();
+    }
+
+    private static void objectTostringTest() {
+        GameRole xiaoming = new GameRole();
+        xiaoming.initState();
+        System.out.println(xiaoming.toString());
+        System.out.println(xiaoming+"");
     }
 
     private static void mementoTest() {
